@@ -1,0 +1,26 @@
+	Website Project
+	--------------
+
+
+This is simple website project
+
+content of the website
+
+files 
+-------
+
+1 - conn.php = is the file that provide the connection from the database
+
+2- index.php ,  index.css = is the menu file only work with the home.php
+
+3- login.php , log.php , stye.css = is the login file 
+
+4- signup.php , sign.php , signup.css = is signup file 
+
+5- menu.php = file that provide the menu to the all php files
+
+6- dash.phph , dash.css , dash1.php = is for the dashboaard 
+
+database name is 'loginform' and the table that contain the data call 'login'
+
+this website is build on php code with database
